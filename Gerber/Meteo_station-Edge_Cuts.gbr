@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
+%TF.CreationDate,2024-01-19T10:16:41+06:00*%
+%TF.ProjectId,Meteo_station,4d657465-6f5f-4737-9461-74696f6e2e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2024-01-19 10:16:41*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X33290000Y-20619000D02*
+X163290000Y-20619000D01*
+X163290000Y-60619000D01*
+X33290000Y-60619000D01*
+X33290000Y-20619000D01*
+M02*
